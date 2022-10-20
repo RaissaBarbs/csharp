@@ -1,0 +1,16 @@
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\tipos de variáveis.exe
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\tipos de variáveis.deps.json
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\tipos de variáveis.runtimeconfig.json
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\tipos de variáveis.runtimeconfig.dev.json
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\tipos de variáveis.dll
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\ref\tipos de variáveis.dll
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\bin\Debug\net5.0\tipos de variáveis.pdb
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.AssemblyInfo.cs
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.dll
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\ref\tipos de variáveis.dll
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.pdb
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.genruntimeconfig.cache
+C:\Users\android\Documents\GitRaissa\csharp\tipos de variáveis\tipos de variáveis\tipos de variáveis\obj\Debug\net5.0\tipos de variáveis.csproj.AssemblyReference.cache
